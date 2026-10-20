@@ -334,18 +334,8 @@ export function WorkloadDashboard({ tasks, developers, CAMPAIGNS, onSelectTask }
 
     const mappedDevelopers = developers.map(dev => {
       const formattedName = formatDevName(dev.name);
-
-      const nameLower = formattedName.toLowerCase();
-      let role = 'Developer';
-      let sortWeight = 3;
-      
-      if (nameLower.includes('maulana falithurrahman') || nameLower.includes('muhamad ridho maulana mustaqim') || nameLower.includes('farid arifiyanto')) {
-        role = 'Product Manager';
-        sortWeight = 1;
-      } else if (nameLower.includes('raissa syafira') || nameLower.includes('choirur rochman')) {
-        role = 'Project Manager';
-        sortWeight = 2;
-      }
+      const role = dev.role || 'Developer';
+      const sortWeight = role === 'Product Manager' ? 1 : role === 'Project Manager' ? 2 : 3;
 
       // Find all tasks assigned to this developer
       const devTasks = filteredTasks.filter(t => 
