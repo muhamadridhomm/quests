@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+all_tasks.json
+server/data/config.json
+server/data/id_mapping.json
+server/data/requests.json
+server/data/demo_tracker_db.json
+*.log
+*.pid

@@ -1,0 +1,24 @@
+{
+  "campaigns": {
+    "group-01": "Planning and delivery of product improvements.",
+    "group-02": "Reliability and service-platform improvements.",
+    "group-03": "Reporting, insights, and data-quality improvements.",
+    "group-04": "Recurring operational workflows and support.",
+    "group-05": "User-facing service and support improvements.",
+    "group-06": "Cross-functional enablement and documentation."
+  },
+  "tasks": {
+    "demo-task-001": "Synthetic portfolio example in the Product group. Replace it with your own work item.",
+    "demo-task-002": "Synthetic portfolio example in the Product group. Replace it with your own work item.",
+    "demo-task-003": "Synthetic portfolio example in the Platform group. Replace it with your own work item.",
+    "demo-task-004": "Synthetic portfolio example in the Platform group. Replace it with your own work item.",
+    "demo-task-005": "Synthetic portfolio example in the Data group. Replace it with your own work item.",
+    "demo-task-006": "Synthetic portfolio example in the Data group. Replace it with your own work item.",
+    "demo-task-007": "Synthetic portfolio example in the Operations group. Replace it with your own work item.",
+    "demo-task-008": "Synthetic portfolio example in the Operations group. Replace it with your own work item.",
+    "demo-task-009": "Synthetic portfolio example in the Support group. Replace it with your own work item.",
+    "demo-task-010": "Synthetic portfolio example in the Support group. Replace it with your own work item.",
+    "demo-task-011": "Synthetic portfolio example in the Shared Services group. Replace it with your own work item.",
+    "demo-task-012": "Synthetic portfolio example in the Shared Services group. Replace it with your own work item."
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "group-01",
+    "name": "Product",
+    "icon": "PanelsTopLeft",
+    "color": "#5367f2",
+    "borderColor": "#94a3b8",
+    "folderNames": [
+      "Product"
+    ],
+    "listIds": [
+      "demo-list-01"
+    ],
+    "subCampaigns": [
+      {
+        "id": "work-1a",
+        "name": "Product Improvements A",
+        "taskIds": [
+          "demo-task-001"
+        ]
+      },
+      {
+        "id": "work-1b",
+        "name": "Product Improvements B",
+        "taskIds": [
+          "demo-task-002"
+        ]
+      }
+    ],
+    "demoTrackerMappings": {}
+  },
+  {
+    "id": "group-02",
+    "name": "Platform",
+    "icon": "Layers",
+    "color": "#15a679",
+    "borderColor": "#94a3b8",
+    "folderNames": [
+      "Platform"
+    ],
+    "listIds": [
+      "demo-list-02"
+    ],
+    "subCampaigns": [
+      {
+        "id": "work-2a",
+        "name": "Platform Improvements A",
+        "taskIds": [
+          "demo-task-003"
+        ]
+      },
+      {
+        "id": "work-2b",
+        "name": "Platform Improvements B",
+        "taskIds": [
+          "demo-task-004"
+        ]
+      }
+    ],
+    "demoTrackerMappings": {}
+  },
+  {
+    "id": "group-03",
+    "name": "Data",
+    "icon": "ChartNoAxesCombined",
+    "color": "#7862c7",
+    "borderColor": "#94a3b8",
+    "folderNames": [
+      "Data"
+    ],
+    "listIds": [
+      "demo-list-03"
+    ],
+    "subCampaigns": [
+      {
+        "id": "work-3a",
+        "name": "Data Improvements A",
+        "taskIds": [
+          "demo-task-005"
+        ]
+      },
+      {
+        "id": "work-3b",
+        "name": "Data Improvements B",
+        "taskIds": [
+          "demo-task-006"
+        ]
+      }
+    ],
+    "demoTrackerMappings": {}
+  },
+  {
+    "id": "group-04",
+    "name": "Operations",
+    "icon": "Settings2",
+    "color": "#ed9b39",
+    "borderColor": "#94a3b8",
+    "folderNames": [
+      "Operations"
+    ],
+    "listIds": [
+      "demo-list-04"
+    ],
+    "subCampaigns": [
+      {
+        "id": "work-4a",
+        "name": "Operations Improvements A",
+        "taskIds": [
+          "demo-task-007"
+        ]
+      },
+      {
+        "id": "work-4b",
+        "name": "Operations Improvements B",
+        "taskIds": [
+          "demo-task-008"
+        ]
+      }
+    ],
+    "demoTrackerMappings": {}
+  },
+  {
+    "id": "group-05",
+    "name": "Support",
+    "icon": "LifeBuoy",
+    "color": "#d65e74",
+    "borderColor": "#94a3b8",
+    "folderNames": [
+      "Support"
+    ],
+    "listIds": [
+      "demo-list-05"
+    ],
+    "subCampaigns": [
+      {
+        "id": "work-5a",
+        "name": "Support Improvements A",
+        "taskIds": [
+          "demo-task-009"
+        ]
+      },
+      {
+        "id": "work-5b",
+        "name": "Support Improvements B",
+        "taskIds": [
+          "demo-task-010"
+        ]
+      }
+    ],
+    "demoTrackerMappings": {}
+  },
+  {
+    "id": "group-06",
+    "name": "Shared Services",
+    "icon": "BookOpen",
+    "color": "#408caa",
+    "borderColor": "#94a3b8",
+    "folderNames": [
+      "Shared Services"
+    ],
+    "listIds": [
+      "demo-list-06"
+    ],
+    "subCampaigns": [
+      {
+        "id": "work-6a",
+        "name": "Shared Services Improvements A",
+        "taskIds": [
+          "demo-task-011"
+        ]
+      },
+      {
+        "id": "work-6b",
+        "name": "Shared Services Improvements B",
+        "taskIds": [
+          "demo-task-012"
+        ]
+      }
+    ],
+    "demoTrackerMappings": {}
+  }
+]
