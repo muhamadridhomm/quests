@@ -2,31 +2,31 @@
   {
     "id": 201,
     "name": "Engineer 01",
-    "role": "Backend"
+    "role": "Product Manager"
   },
   {
     "id": 202,
     "name": "Engineer 02",
-    "role": "Frontend"
+    "role": "Project Manager"
   },
   {
     "id": 203,
     "name": "Engineer 03",
-    "role": "QA"
+    "role": "Developer"
   },
   {
     "id": 204,
     "name": "Engineer 04",
-    "role": "Data"
+    "role": "Developer"
   },
   {
     "id": 205,
     "name": "Engineer 05",
-    "role": "Platform"
+    "role": "Developer"
   },
   {
     "id": 206,
     "name": "Engineer 06",
-    "role": "Product"
+    "role": "Developer"
   }
 ]
